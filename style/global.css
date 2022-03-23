@@ -1,0 +1,27 @@
+:root {
+  --light: #e8e8e8;
+  --medium: #646b61;
+  --darker: #3a4141;
+  --dark: #0a0a0b;
+  --light-transparent: #e8e8e82a;
+}
+
+* {
+  font-family: "work sans", sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background: linear-gradient(
+    0deg,
+    rgba(232, 232, 232, 1) 0%,
+    rgba(53, 59, 59, 1) 65%,
+    rgba(10, 10, 11, 1) 88%
+  );
+}
