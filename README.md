@@ -9,6 +9,13 @@ This project is an online web resume page example.
 It is about me, but made for purpose of practice, so it contain some false information.
 
 
+## Techniques used
+
+HTML
+CSS
+JS
+
+
 ## Getting Started
 
 Project is simple and loaded on GitHub pages. 
@@ -17,4 +24,8 @@ To open it, just simply run it using GitHub pages.
 
 ## Authors
 
-Project made only by me with no other contributors.
+Project made only by me - Žygimantas Kairaitis. https://www.linkedin.com/in/%C5%BEygimantas-kairaitis-018a86193/
+
+## License
+
+This project is licensed under the Žygimantas Kairaitis License.
